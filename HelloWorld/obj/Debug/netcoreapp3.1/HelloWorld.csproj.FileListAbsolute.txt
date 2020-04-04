@@ -1,0 +1,11 @@
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\git\ToCode.Software\ToCode.Software\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
