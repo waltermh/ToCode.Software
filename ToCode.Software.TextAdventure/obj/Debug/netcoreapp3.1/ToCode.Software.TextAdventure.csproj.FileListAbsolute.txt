@@ -1,0 +1,11 @@
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.exe
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.deps.json
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.runtimeconfig.json
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.runtimeconfig.dev.json
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.dll
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\bin\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.pdb
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\obj\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.csprojAssemblyReference.cache
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\obj\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.AssemblyInfoInputs.cache
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\obj\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.AssemblyInfo.cs
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\obj\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.dll
+C:\git\ToCode.Software\ToCode.Software\ToCode.Software.TextAdventure\obj\Debug\netcoreapp3.1\ToCode.Software.TextAdventure.pdb
