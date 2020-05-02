@@ -7,7 +7,7 @@ namespace HelloWorld
 	public void Start()
 	{
 		Console.WriteLine("Hello World!");
-		Console.WriteLine("Hows quarantine?");
+		Console.WriteLine("Hows quarantine? Boring?");
 		Console.WriteLine("Miss baseball?");
 		var response = Console.ReadLine();
 		if (response.ToLower() == "cubs")
