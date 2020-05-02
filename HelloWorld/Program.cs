@@ -31,33 +31,32 @@ namespace HelloWorld
             }
         }
 
-        void TalkToMakiah()
+        static void TalkToMakiah()
         {
             Console.WriteLine("Hello, this is Makiah's Bot.");
             var bot = new MakiahBot();
-            bot.Main();
+            bot.Start();
         }
 
-        void TalkToAylah()
+        static void TalkToAylah()
         {
             Console.WriteLine("Hello, this is Aylah's Bot.");
             var bot = new AylahBot();
-            bot.Main();
+            bot.Start();
         }
 
-        void TalkToElliot()
+        static void TalkToElliot()
         {
             Console.WriteLine("Hello, this is Elliot's Bot.");
             var bot = new ElliotBot();
-            bot.Main();
+            bot.Start();
         }
 
-        void TalkToMichael()
+        static void TalkToMichael()
         {
             Console.WriteLine("Hello, this is Michael's Bot.");
             var bot = new MichaelBot();
-            bot.Main();
-        }
+            bot.Start();
         }
     }
 }

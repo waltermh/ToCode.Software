@@ -1,6 +1,8 @@
 using System;
 
-public class MichaelBot
+namespace HelloWorld
+{
+	public class MichaelBot
 {
 	public void Start()
 	{
@@ -13,4 +15,6 @@ public class MichaelBot
 			Console.WriteLine("This year at Wriggly");
 		}
 	}
+}
+
 }
